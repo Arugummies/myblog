@@ -1,0 +1,26 @@
+#contact iframe
+{
+    width: 100%;
+}
+.myfavplaces{
+    border:1px solid rgb(141, 195, 195);
+
+}
+.myfavplaces img{
+    width: 100%;
+}
+.myfavplaces h5,.myfavplaces p{
+    margin:20px;
+}
+.movies_pics{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+}
+.movies_pics i{
+    float:right;
+}
+.movie_text span{
+color:orange;
+}
